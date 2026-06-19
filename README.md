@@ -95,4 +95,4 @@
 > I'm open to **C++ Developer**, **System Software Engineer**, **Linux/Embedded Engineer**, and **Backend Engineer** roles.
 > Feel free to reach out — I'm always happy to connect with engineers and recruiters!
 
-📧 vansh.chaudhary4456@gmail.com &nbsp;|&nbsp; 📍 Greater Noida, India
+📧 vansh.chaudhary4456@gmail.com &nbsp;|&nbsp; 📍 Ghaziabad, India
