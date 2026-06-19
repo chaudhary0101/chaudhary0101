@@ -79,8 +79,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaudhary0101&color=7F77DD&style=flat)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhary0101&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/chaudhary0101)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=chaudhary0101&theme=tokyonight&hide_border=true)](https://github.com/chaudhary0101)
 
 ### 📊 GitHub Stats
