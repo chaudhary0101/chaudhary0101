@@ -79,6 +79,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chaudhary0101&color=7F77DD&style=flat)
 
+[![Vansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaudhary0101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/chaudhary0101)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhary0101&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/chaudhary0101)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaudhary0101&theme=tokyonight&hide_border=true)](https://github.com/chaudhary0101)
+
 ### 📊 GitHub Stats
 
 <p align="center">
