@@ -77,6 +77,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=chaudhary0101&color=7F77DD&style=flat)
+
 ### 📊 GitHub Stats
 
 <p align="center">
