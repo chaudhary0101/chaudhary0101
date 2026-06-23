@@ -25,7 +25,7 @@
 - 🏭 Currently at **Scanno System Pvt. Ltd.** — building high-performance systems in Automotive Infotainment and Telecom domains
 - ⚙️ Skilled in **Multithreading, IPC, Socket Programming, STL, and OOP**
 - 📡 Domain experience: **Automotive (HVAC systems)** and **Telecom (GSM/UMTS/LTE)**
-- 🎓 B.Tech CSE @ Ajay Kumar Garg Engineering College (2022–2026)
+- 🎓 B.Tech CSE (2022–2026)
 - 📫 Open to **C++ Developer, System Software Engineer, and Embedded Engineer** roles
 
 ---
