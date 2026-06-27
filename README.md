@@ -77,6 +77,16 @@
 
 ---
 
+---
+
+### 🚀 Portfolio Projects
+
+| Repository | Domain | What It Demonstrates |
+|---|---|---|
+| [cpp-thread-pool-lib](https://github.com/chaudhary0101/cpp-thread-pool-lib) | Concurrency | C++17 thread pool · priorities · std::future · dynamic scaling · metrics |
+| [ipc-socket-bridge](https://github.com/chaudhary0101/ipc-socket-bridge) | Automotive / Linux | IPC + TCP/IP bridge · epoll · UNIX sockets · multithreading · RAII |
+| [telecom-metrics-engine](https://github.com/chaudhary0101/telecom-metrics-engine) | Telecom | GSM/UMTS/LTE KPI pipeline · real-time aggregation · threshold alerting |
+
 ![Profile Views](https://komarev.com/ghpvc/?username=chaudhary0101&color=7F77DD&style=flat)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chaudhary0101&theme=tokyonight&hide_border=true)](https://github.com/chaudhary0101)
